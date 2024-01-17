@@ -1,0 +1,16 @@
+echo 'help'
+
+help
+ramajo@ramajo-desktop:~$ 
+echo 'share "banana "maca"'
+
+share "banana "maca"
+ramajo@ramajo-desktop:~$ 
+echo 'telnet'
+
+telnet
+ramajo@ramajo-desktop:~$ 
+echo 'a=2'
+
+a=2
+ramajo@ramajo-desktop:~$ 
